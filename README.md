@@ -11,3 +11,4 @@ Flags:
 
     -p : Port
     -u : Public url to scrape
+    -u : Cache time 
