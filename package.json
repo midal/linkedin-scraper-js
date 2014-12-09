@@ -12,8 +12,6 @@
   "dependencies": {},
   "devDependencies": {
     "cheerio": "^0.18.0",
-    "request": "^2.49.0",
-    "streamify": "^0.2.4",
-    "url": "^0.10.1"
+    "request": "^2.49.0"
   }
 }
