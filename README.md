@@ -5,10 +5,9 @@ A node.js server that parses a public LinkedIn profile and returns it as a json 
 
 Run:
 
-`node server/linkedin-scraper`
+    node server/linkedin-scraper
 
 Flags:
 
-`-p` - Port
-
-`-u` - Public url to scrape
+    -p : Port
+    -u : Public url to scrape
